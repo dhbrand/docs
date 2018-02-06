@@ -1,5 +1,5 @@
-site_name: MkLorum
+site_name: Dave's Docs
 pages:
-    - Home: index.md
-    - Atom: Tutorials/Github\ and\ Atom\ Setup.md
+    - 'Home' : 'index.md'
+    - 'Atom' : 'tutorials/atom.md'
 theme: readthedocs
