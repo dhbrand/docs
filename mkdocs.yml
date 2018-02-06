@@ -1,5 +1,8 @@
 site_name: Dave's Docs
 pages:
-    - 'Home' : 'index.md'
-    - 'Atom' : 'tutorials/atom.md'
+- Home: 'index.md'
+- Tutorials:
+    - 'Atom Text Editor': 'tutorials/atom.md'
+    - 'XSEDE Account Setup': 'tutorials/xsede.md'
+    - 'Agave Data Transfers': 'tutorials/agaveData.md'
 theme: readthedocs
