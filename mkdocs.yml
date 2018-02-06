@@ -1,5 +1,5 @@
 site_name: MkLorum
 pages:
     - Home: index.md
-    - About: about.md
+    - Atom: Tutorials/Github\ and\ Atom\ Setup.md
 theme: readthedocs
